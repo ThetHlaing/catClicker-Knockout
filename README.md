@@ -1,6 +1,3 @@
-ud989-cat-clicker-ko-starter
+# catClicker KnockoutJS version
 ============================
 
-ud989-cat-clicker-ko-starter
-# catClicker-Knockout
-# catClicker-Knockout
